@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there, I'm Andreu 👋
 
-<!--
-**PrMestizo/PrMestizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 👨‍💻 Full-Stack Developer who enjoys building things from the ground up
+* 💪 Strengths: Python, GenAI & Cloud with a heavy focus on GenAI applications on GCP
+* 👨🏽‍💻 LLM Speciailist with LangChain
+  
+What would you like to know more about?
 
-Here are some ideas to get you started:
+1. [Projects](#projects) 👷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. Contact Me 📧
+
+
+## Projects
+
+What I'm up to NEXT! 🤔💭
+* Commoditizing machine learning
+* GenAI application security
+* Advanced GenAI Agents
+* Advacned RAG systems
+
+## Contact Me 📮
+
+I want to help people through building amazing products that boosts efficiency.
+
+🔗 LinkedIn : www.linkedin.com/in/andreu-llopis-sanchez-614797264
+
