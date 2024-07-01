@@ -25,3 +25,5 @@ I want to help people through building amazing products that boosts efficiency.
 
 🔗 LinkedIn : www.linkedin.com/in/andreu-llopis-sanchez-614797264
 
+📩 Gmail: Andreulll9@gmail.com
+
