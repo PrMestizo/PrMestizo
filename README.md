@@ -8,7 +8,7 @@ What would you like to know more about?
 
 1. [Projects](#projects) 👷
 
-2. Contact Me 📧
+2. [Contact Me](#contact-me) 📧
 
 
 ## Projects
