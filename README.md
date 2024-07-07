@@ -6,12 +6,18 @@
   
 What would you like to know more about?
 
-1. [Projects](#projects) 👷
+1. [AI Projects](#projects) 👷
 
 2. [Contact Me](#contact-me) 📧
 
 
 ## Projects
+
+| Projects                       | Technologies             |
+|------------------------|------------------------|
+| [PDF Chatbot](https://github.com/PrMestizo/PDF-Chatbot)   | LangChain  &  Openai             |
+| [Advance Rag](https://github.com/PrMestizo/Advanced-RAG-LangChain)   |  LangGraph & Openai       |
+| [Customer Support Bot](https://github.com/PrMestizo/Customer-Support-Bot)   |  LangGraph & LangSmith & Openai           |
 
 What I'm up to NEXT! 🤔💭
 * Commoditizing machine learning
