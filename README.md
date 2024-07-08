@@ -1,7 +1,7 @@
 ## Hi there, I'm Andreu 👋
 
 * 👨‍💻 Full-Stack Developer who enjoys building things from the ground up
-* 💪 Strengths: Python, GenAI & Cloud with a heavy focus on GenAI applications on GCP
+* 💪 Strengths: Python, GenAI  with a heavy focus on NLP applications
 * 👨🏽‍💻 LLM Speciailist with LangChain
   
 What would you like to know more about?
